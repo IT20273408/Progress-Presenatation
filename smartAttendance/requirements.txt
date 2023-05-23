@@ -1,0 +1,6 @@
+opencv-python
+numpy
+dlib
+face_recognition
+firebase-admin==6.1.0
+flask
